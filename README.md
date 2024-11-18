@@ -1,0 +1,1 @@
+# Generador-de-c-digo-QR
